@@ -45,7 +45,7 @@
   "dependencies": {
     "destr": "^1.1.1",
     "node-fetch": "^3.2.4",
-    "ufo": "^0.8.3",
+    "ufo": "^1.1.1",
     "undici": "^5.0.0"
   },
   "devDependencies": {
